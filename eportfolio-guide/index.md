@@ -20,7 +20,7 @@ I worked with a local copy of the repository so I could edit the files on my com
 
 ## 2. Adding the Minimal Theme
 
-For the design, I used the [Minimal theme for GitHub Pages](https://github.com/pages-themes/minimal). The theme gives the site a simple layout with a sidebar for the title, description, and photo, and a main area for the content. I downloaded the theme's files from its GitHub repository and placed them into my portfolio repository.
+For the design, I used the [Minimal theme for GitHub Pages](https://github.com/pages-themes/minimal). The theme gives the site a simple layout. I downloaded the theme's files from its GitHub repository and placed them into my portfolio repository.
 
 I kept the overall layout because it was straightforward and worked well for a resume-style portfolio. The theme also has a README that explains its usage and configuration options.
 
@@ -42,7 +42,9 @@ The same file includes `remote_theme: pages-themes/minimal@v0.2.0` and the `jeky
 
 The original theme included a stock `logo.png` image. For my portfolio, I added a graduation picture named `Graduation.png` to the `assets/img` folder. Then I pointed the `logo` setting in `_config.yml` to `/assets/img/Graduation.png`.
 
-I did not rename my picture to `logo.png`; I changed the image path instead. This allowed the site to display my picture while keeping the original file in the repository.
+I did not rename my picture to `logo.png`; I changed the image path instead.
+
+![My profile picture being added](/assets/img/eportfolio-guide/added-profile-pic.png)
 
 ## 4. Writing the Homepage
 
@@ -50,7 +52,7 @@ I did not rename my picture to `logo.png`; I changed the image path instead. Thi
 
 The root `index.md` file contains the main page of the portfolio. I replaced the sample theme content with information about my education, work experience, and skills. I organized the page similarly to a resume, starting with my name and summary, followed by work experience, education, projects, and skills.
 
-For work experience, I included my role helping manage my family's landscaping business, as well as my sales and retail experience. Under education, I included my studies at CSUSM and UC Berkeley. I wanted the page to show both my operations background and the analytical skills I am currently developing.
+For work experience, I included my role helping manage my family's landscaping business, as well as my sales and retail experience. Under education, I included my studies at CSUSM and UC Berkeley. 
 
 ![Markdown used for my homepage](/assets/img/eportfolio-guide/homepage-markdown.png)
 
@@ -76,7 +78,7 @@ I also edited `README.md` so someone visiting the GitHub repository would know i
 
 After editing the files, the last step was publishing them. The workflow was to review the local changes, write a commit message, commit those changes, and push them to GitHub. A commit records a version of the project; pushing sends those commits from my computer to the GitHub repository.
 
-GitHub Pages then builds and publishes the website. I can check the repository's **Actions** tab for a successful **pages build and deployment** and visit the site itself to confirm the changes appear as expected. Both checks matter because uploading files and seeing the finished page are not exactly the same thing.
+GitHub Pages then builds and publishes the website. I can check the repository's **Actions** tab for a successful **pages build and deployment** and visit the site itself to confirm the changes appear as expected.
 
 For this second milestone, I also created the `eportfolio-guide` folder with its own `index.md` file and added a link to it under **Projects** on the homepage. This makes the guide a separate page without creating a different website.
 
