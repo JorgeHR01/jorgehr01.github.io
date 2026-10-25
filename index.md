@@ -52,6 +52,8 @@ Studied the relationships among markets, institutions, technology, and public po
 
 ## Completed Projects 
 
+- [How I Built My GitHub Pages E-Portfolio](/eportfolio-guide/)
+
 ## Relevent Skills 
 
 ### Business and Operations
