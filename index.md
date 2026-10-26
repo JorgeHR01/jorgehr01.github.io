@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Jorge Luis Hernandez Ramirez 
-*Supply Chain Analytics Graduate Student | UC Berkeley Political Econnomics Graduate* 
+*Supply Chain Analytics Graduate Student | UC Berkeley Political Economy Graduate* 
 
 San Marcos, California
 
@@ -13,7 +13,7 @@ I am pursuing a Master of Science in Supply Chain Analytics at California State 
 
 ## Work Experience 
 
-### Operations - Family Ladnscaping Business 
+### Operations - Family Landnscaping Business 
 *San Diego County, California | 2024-2026* 
 
 - Managed day-to-day operations, including job scheduling, materials planning, financial records, and quality control.
@@ -54,7 +54,7 @@ Studied the relationships among markets, institutions, technology, and public po
 
 - [How I Built My GitHub Pages E-Portfolio](/eportfolio-guide/)
 
-## Relevent Skills 
+## Relevant Skills 
 
 ### Business and Operations
 
@@ -68,4 +68,4 @@ Studied the relationships among markets, institutions, technology, and public po
 2. **VS Code:** Developing familiarity with editing and running Python scripts.
 3. **Data workflows:** Learning to inspect, clean, transform, validate, and document data for reproducible analysis.
 
-[Connect via Linkedin](https://linkedin.com/in/jorge-hernandez-ramirez-1ba73b2ba)
+[Connect via LinkedIn](https://linkedin.com/in/jorge-hernandez-ramirez-1ba73b2ba)
