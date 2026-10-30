@@ -13,7 +13,7 @@ I am pursuing a Master of Science in Supply Chain Analytics at California State 
 
 ## Work Experience 
 
-### Operations - Family Landnscaping Business 
+### Operations - Family Landscaping Business 
 *San Diego County, California | 2024-2026* 
 
 - Managed day-to-day operations, including job scheduling, materials planning, financial records, and quality control.
@@ -52,7 +52,7 @@ Studied the relationships among markets, institutions, technology, and public po
 
 ## Completed Projects 
 
-- [How I Built My GitHub Pages E-Portfolio](/eportfolio-guide/)
+- [How I Built My GitHub Pages E-Portfolio](/eportfolio_guide/)
 
 ## Relevant Skills 
 
