@@ -6,7 +6,7 @@ layout: default
 
 ## Introduction
 
-I created this e-portfolio as part of OM 620, Tools and Technologies for Analytics, at CSUSM. The goal was to have a website where I could share my background, skills, and projects as I work through the MS in Supply Chain Analytics program and any future careear endeavors. I used GitHub Pages to host the website and the Minimal theme as the starting design. This guide covers the main steps I followed for creating my first portfolio, along with the files I changed to make the site my own.
+I created this e-portfolio as part of OM 620, Tools and Technologies for Analytics, at CSUSM. The goal was to have a website where I could share my background, skills, and projects as I work through the MS in Supply Chain Analytics program and any future career endeavors. I used GitHub Pages to host the website and the Minimal theme as the starting design. This guide covers the main steps I followed for creating my first portfolio, along with the files I changed to make the site my own.
 
 ## 1. Setting Up GitHub Pages
 
@@ -80,7 +80,7 @@ After editing the files, the last step was publishing them. The workflow was to 
 
 GitHub Pages then builds and publishes the website. I can check the repository's **Actions** tab for a successful **pages build and deployment** and visit the site itself to confirm the changes appear as expected.
 
-For this second milestone, I also created the `eportfolio-guide` folder with its own `index.md` file and added a link to it under **Projects** on the homepage. This makes the guide a separate page without creating a different website.
+For this second milestone, I also created the `eportfolio_guide` folder with its own `index.md` file and added a link to it under **Projects** on the homepage. This makes the guide a separate page without creating a different website.
 
 ## 7. Final Portfolio
 
